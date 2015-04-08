@@ -13,6 +13,9 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="Samples">
+      <UniqueIdentifier>{64226a19-9557-4153-8293-bc33b48935ce}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\bmp_io.h">
@@ -54,6 +57,18 @@
     </Image>
     <Image Include="..\earth_physical.bmp">
       <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\Samples\scene2.bmp">
+      <Filter>Samples</Filter>
+    </Image>
+    <Image Include="..\..\Samples\phong1.bmp">
+      <Filter>Samples</Filter>
+    </Image>
+    <Image Include="..\..\Samples\phong2.bmp">
+      <Filter>Samples</Filter>
+    </Image>
+    <Image Include="..\..\Samples\scene1.bmp">
+      <Filter>Samples</Filter>
     </Image>
   </ItemGroup>
 </Project>

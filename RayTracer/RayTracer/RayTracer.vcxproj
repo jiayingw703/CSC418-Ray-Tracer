@@ -111,6 +111,10 @@
     <ClCompile Include="..\util.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <Image Include="..\..\Samples\phong1.bmp" />
+    <Image Include="..\..\Samples\phong2.bmp" />
+    <Image Include="..\..\Samples\scene1.bmp" />
+    <Image Include="..\..\Samples\scene2.bmp" />
     <Image Include="..\checkerboard.bmp" />
     <Image Include="..\earth_physical.bmp" />
   </ItemGroup>
